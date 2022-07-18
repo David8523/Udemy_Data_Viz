@@ -1,4 +1,4 @@
-# Udemy_courses
+# Udemy courses
 ### About
 This repository contains project work for different courses on Udacity
 ### 1. Python and Tableau: The Complete Data Analytics Bootcamp!
