@@ -1,3 +1,11 @@
+
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg" /
+width="350" 
+height="300"
+</p>
+  
 # Udemy Courses about Data Analysis & Visualization
 ## About
 This repository contains project work for different courses on Udacity
